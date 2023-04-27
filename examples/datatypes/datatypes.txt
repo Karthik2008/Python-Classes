@@ -1,0 +1,7 @@
+String
+Integer 
+Float
+Boolean
+List
+Tuples
+Dictionaries
